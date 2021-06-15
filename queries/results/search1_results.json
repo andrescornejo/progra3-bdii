@@ -1,0 +1,224 @@
+{
+        "_id" : ObjectId("60c5a53ee056230db3b02aa4"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "TRAIN",
+        "@CGISPLIT" : "TRAINING-SET",
+        "@OLDID" : "8320",
+        "@NEWID" : "235",
+        "DATE" : "1-MAR-1987 03:09:07.13",
+        "TOPICS" : {
+                "D" : [
+                        "grain",
+                        "wheat",
+                        "rice",
+                        "veg-oil",
+                        "soybean",
+                        "sugar",
+                        "rubber",
+                        "copra-cake",
+                        "corn",
+                        "palm-oil",
+                        "palmkernel",
+                        "coffee",
+                        "tea",
+                        "plywood",
+                        "soy-meal",
+                        "cotton"
+                ]
+        },
+        "PLACES" : {
+                "D" : "indonesia"
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;C G L M T\n@0@22;@0@22;@0@1;f0369@0@31;reute\nu f BC-INDONESIAN-AGRICULTUR   03-01 0105",
+        "TEXT" : {
+                "TITLE" : "INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW",
+                "DATELINE" : "JAKARTA, March 1 -",
+                "BODY" : "Indonesia\"s agriculture sector will grow\nby just 1.0 pct in calendar 1987, against an estimated 2.4 pct\nin 1986 as the production of some commodities stagnates or\ndeclines, the U.S. Embassy said in a report.\n    Production of Indonesia\"s staple food, rice, is forecast to\nfall to around 26.3 mln tonnes from an embassy estimate of\n26.58 mln tonnes in 1986, according to the annual report on\nIndonesia\"s agricultural performance.\n    The government officially estimates 1986 rice production at\n26.7 mln tonnes, with a forecast 27.3 mln tonnes output in\n1987.\n    The report says wheat imports are likely to fall to 1.5 mln\ntonnes in calendar 1987 from 1.69 mln tonnes in 1986 because of\na drawdown on stocks.\n    \"Growth prospects for agriculture in 1987 do not look\npromising as rice production is forecast to decline and the\nproduction of sugarcane, rubber and copra show little or no\ngain,\" the report says.\n    \"The modest overall increase which is expected will be due\nto significant gains in production of corn soybeans, palm oil\nand palm kernels.\"\n    Constraints to significant overall increases in\nagricultural output include a shortage of disease resistant\nseeds, limited fertile land, insect pests and a reluctance by\nfarmers to shift from rice production to other crops, the\nreport underlines.\n    The fall in rice production is caused by an outbreak of\npests known as \"wereng\" or brown plant hoppers in 1986 which\nlargely offset gains in yields.\n    The outbreak has forced the government to ban the use of 57\ninsecticides on rice because it was believed the wereng are now\nresistant to these varieties, and to use lower-yielding, more\nresistant rice types.\n    The government is depending on increased production of\nexport commodities such as coffee, tea, rubber, plywood and\npalm oil to offset revenue losses brought on by falling crude\noil prices.\n    Palm oil production is expected to increase by over 7.0 pct\nin 1987 to 1.45 mln tonnes from 1.35 mln, with exports rising\nto an estimated 720,000 tonnes from 695,000 tonnes in 1986, the\nreport says.\n    But while production of soybeans in 1987/88 (Oct-Sept) will\nrise to 1.075 mln tonnes from 980,000 in 1986/87, imports will\nalso rise to supply a new soybean crushing plant.\n    The report says that imports of wheat, soybeans, soybean\nmeal and cotton are not likely to decline as a result of last\nSeptember\"s 31 pct devaluation of the rupiah because of a rise\nin domestic demand.\n    The report said that Indonesia\"s overall economic\nperformance in calendar 1986 was about zero or even a slight\nnegative growth rate, the lowest rate of growth since the\nmid-1960s. It compares with 1.9 pct growth in 1985 and 6.7 pct\nin 1984.\n    The dramatic fall in oil prices last year was responsible\nfor the slump.\n REUTER\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}
+{
+        "_id" : ObjectId("60c5a53ee056230db3b02aba"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "TRAIN",
+        "@CGISPLIT" : "TRAINING-SET",
+        "@OLDID" : "8344",
+        "@NEWID" : "259",
+        "DATE" : "1-MAR-1987 22:12:53.59",
+        "TOPICS" : {
+                "D" : "sugar"
+        },
+        "PLACES" : {
+                "D" : "indonesia"
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;T C\n@0@22;@0@22;@0@1;f0510@0@31;reute\nu f BC-INDONESIAN-SUGAR-OUTP   03-01 0102",
+        "TEXT" : {
+                "TITLE" : "INDONESIAN SUGAR OUTPUT SEEN SHORT OF TARGET",
+                "DATELINE" : "JAKARTA, March 2 -",
+                "BODY" : "Indonesia's raw sugar output is likely\nto be 1.8 mln tonnes in calendar 1987, unchanged from 1986 and\nbelow the government's 1987 forecast of 2.5 mln, the U.S.\nEmbassy said in its agricultural outlook for 1987.\n    Indonesia bought 162,500 tonnes of raw sugar on world\nmarkets in late 1986, the report said.\n    The embassy estimated Indonesia's calendar 1986 raw sugar\nproduction at 1.8 mln tonnes, against a government estimate of\n1.99 mln.\n    It said that Indonesia's move into sugar self-sufficiency\nin 1984 may have been short-lived.\n    The report said, \"The government continues to promote\nsugarcane production through its smallholder intensification\nprogram and a relatively high guaranteed price to sugarcane\nproducers.\n    \"However, there are considerable indications that farmers\nare reluctant to plant cane because its economic return is not\nas good as that of other crops.\"\n REUTER\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}
+{
+        "_id" : ObjectId("60c5aca0ba43fa12f5133f20"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "TRAIN",
+        "@CGISPLIT" : "TRAINING-SET",
+        "@OLDID" : "13066",
+        "@NEWID" : "7545",
+        "DATE" : "20-MAR-1987 02:00:36.51",
+        "TOPICS" : {
+                "D" : [
+                        "grain",
+                        "rice",
+                        "wheat",
+                        "tea",
+                        "sugar"
+                ]
+        },
+        "PLACES" : {
+                "D" : [
+                        "hong-kong",
+                        "australia",
+                        "sri-lanka",
+                        "china",
+                        "indonesia",
+                        "peru"
+                ]
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;C G L M T\n@0@22;@0@22;@0@1;f0051@0@31;reute\nu f BC-ECONOMIC-SPOTLIGHT--   03-20 0101",
+        "TEXT" : {
+                "TITLE" : "ECONOMIC SPOTLIGHT - ASIAN DROUGHTS",
+                "AUTHOR" : "By Gavin Greenwood, Reuters",
+                "DATELINE" : "HONG KONG, March 20 -",
+                "BODY" : "Three geographically diverse droughts\nin Asia are being linked by some scientists to a\nreintensification of the complex and little-understood El Nino\nweather pattern, <Accu-Weather Inc>, a commercial weather\nforecasting service, said.\n    Rice and wheat farmers in China, wheat and sugarcane\ngrowers in Australia and tea planters in Sri Lanka all face\nserious losses to their respective harvests unless rains arrive\nin time to break the droughts, offical reports, government\nofficials and meteorologists said.\n    Wen Wei Po, a Hong Kong daily with close Peking links, said\nthe drought is the worst in over 20 years and some provinces\nhave been without adequate rainfall for more than seven months.\n    Rice planting is threatened in eight provinces, it added.\n    Rainfall in the key farming provinces of Henan and Sichuan\nwas 70 pct below average during February, the lowest figure for\nover 20 years, the paper said.\n    The dry weather has cut stored water volumes by over 20 pct\ncompared with last March and lowered the water levels of many\nrivers, it added.\n    This has resulted in reduced hydro-electric power, causing\nshortages to industry and households. The upper reaches of the\nYangtze are at their lowest levels in a century, causing many\nships to run aground, Wen Wei Po said.\n    Unusually high temperatures have also been reported across\nChina, media reports said. The People's Daily said Sichuan has\nrecorded temperatures three degrees Celsius higher than average\nsince early February.\n    The New China News Agency said the average December\ntemperature in Harbin in the northeast was six degrees higher\nthan last December and 14 degrees higher than December 1984.\n    Severe drought is affecting about one-third of Sri Lanka\nand threatens to reduce the country's tea crop, Ministry of\nPlantation Industries officials told Reuters\n    In Australia, concern is growing about below-average\nrainfall levels in parts of the sugarcane belt along the\nQueensland coast and in Western Australia's wheat belt, local\nMeteorological Bureau officials said.\n    For many farmers and government officials the fear is that\nwhile the present low rainfall does not yet pose a major\nthreat, the prospect of a dry autumn/winter season when the\nwheat crop is in its early stages certainly does, they added.\n    Concern is heightened by the memory of the 1982/83 drought\nwhich devastated the wheat crop and coincided with the\noccurrence of the barely understood weather phenomenon known as\nEl Nino, they said.\n    Although meteorologists are cautious about linking the\nAsia-Pacific region's disrupted weather patterns to any single\ncause, El Nino's role is being closely studied, they said.\n    Accu-Weather Inc, which specialises in providing data for\nagriculture and shipping interests, said each El Nino 'event'\nwas unique.\n    The El Nino does not always produce the same effects and\nthe present occurrence is much less pronounced than the last\nmajor event in 1982/83, it said.\n    El Nino, Spanish for \"Christ Child\" because it appears around\nChristmas, is formed by the action of warm air, bearing clouds\nand rain, shifting from the Indonesian archipelago to the coast\nof Peru, where it mingles with the cold waters associated with\nthe Peru current and returns across the Pacific as the trade\nwinds, meteorologists said.\n    The winds, strengthened by El Nino's \"pump\" effect, raise the\nsea level off Australia and Indonesia, they said.\n    When the winds drop, the ocean, seeking equilibrium, sends\na surge of warmer water back across the Pacific where it\ncollides with the cold seas off Peru, they said.\n    One effect of this heat exchange is to deflect the\nrain-bearing clouds away from Australia and Indonesia into the\nPacific, where they further disrupt other weather patterns.\n    The prospects for an end to the droughts vary, Accu-Weather\nsaid.\n    China, where the affected areas have received between 40\nand 75 pct of normal rainfall, will have to wait for the\nMay-September rains, it said.\n    The May-September rains normally provide the\ndrought-striken areas with 80 pct of annual rainfall.\n    In Australia, areas of Queensland's coastal strip have\nreceived less than half the normal rainfall during the current\nwet season, but prospects for increased rains are diminishing\nas the rainy season draws to an end.\n    In Sri Lanka, the drought has come when rainfall should be\nat its maximum for the year. The year's secondary rains usually\noccur between April and June, although it is not possible at\nthis stage to forecast whether they will arrive as usual.\n REUTER\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}
+{
+        "_id" : ObjectId("60c5ae2890877440103003d2"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "NOT-USED",
+        "@CGISPLIT" : "PUBLISHED-TESTSET",
+        "@OLDID" : "22010",
+        "@NEWID" : "13286",
+        "DATE" : "6-APR-1987 06:46:41.67",
+        "TOPICS" : {
+                "D" : "sugar"
+        },
+        "PLACES" : {
+                "D" : [
+                        "indonesia",
+                        "cuba"
+                ]
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;C T\n@0@22;@0@22;@0@1;f0392@0@31;reute\nr f BC-INDONESIA-IMPORTS-12,   04-06 0110",
+        "TEXT" : {
+                "TITLE" : "INDONESIA IMPORTS 12,000 TONNES CUBAN SUGAR",
+                "DATELINE" : "JAKARTA, April 6 -",
+                "BODY" : "Indonesia has imported 12,000 tonnes of\nrefined sugar from Cuba to meet consumer demand in the province\nof South Sulawesi, the head of the provincial food agency said.\n    The imported sugar was needed because two of three sugar\nrefineries in the province have been temporarily shut down. It\narrived in the provincial capital of Ujungpandang today and\nwill be distributed to markets in the province, the food agency\nofficial said.\n    Indonesia used to be a sugar exporter but last year it\nimported 162,500 tonnes of sugar from Thailand, Angola and\nBrazil to bolster its depleted stocks.\n    Indonesia's sugar cane production last year was expected to\nrise significantly but domestic sugar consumption has soared\nbecause of rising demand by the food processing industry, the\nhead of the food logistics agency, Bustanil Arifin, has said.\n    The government has forecast that sugar production in\ncalendar 1987 would increase 30.2 pct to 2.59 mln tonnes from\n1.99 mln in 1986 but industry sources doubt whether the target\ncould be met due to persistent post-harvest handling and\ntransport problems.\n REUTER\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}
+{
+        "_id" : ObjectId("60c5ae3cd30c9239c6f2ca0e"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "NOT-USED",
+        "@CGISPLIT" : "PUBLISHED-TESTSET",
+        "@OLDID" : "22014",
+        "@NEWID" : "18459",
+        "DATE" : "16-JUN-1987 07:24:57.91",
+        "TOPICS" : {
+                "D" : "sugar"
+        },
+        "PLACES" : {
+                "D" : "indonesia"
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;T\n@0@22;@0@22;@0@1;f0540@0@31;reute\nu f BC-INDONESIA-SEEKS-TO-IN   06-16 0089",
+        "TEXT" : {
+                "TITLE" : "INDONESIA SEEKS TO INCREASE SUGAR OUTPUT",
+                "DATELINE" : "JAKARTA, June 16 -",
+                "BODY" : "Indonesia will try to increase sugar\noutput in calendar 1988 to 2.4 mln tonnes from an expected 2.2\nmln in 1987, Agriculture Minister Achmad Affandi said.\n    He told reporters after meeting President Suharto the gains\nwill come from increasing average production to 10 tonnes per\nhectare from the previous 6.2 tonnes.\n    He said Indonesia is aiming to pass the United States to\nbecome the world's fourth largest producer compared with its\ncurrent seventh position.\n    Affandi said the increase would insure Indonesia's\nself-sufficiency in the commodity and allow it to keep adequate\nstocks.\n    Indonesia said it produced 2.02 mln tonnes in 1986, but the\nU.S. Embassy in its annual agriculture report said output was\n1.8 mln tonnes. The U.S. Report forecast no change for 1987.\n    Indonesia imported 162,000 tonnes of sugar late last year\nand in early 1987 to boost low sugar stocks.\n    The country has around 284,000 hectares of sugar cane\nfarms. The agriculture ministry estimates domestic consumption\nat 2.03 mln tonnes in calendar 1987.\n REUTER\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}
+{
+        "_id" : ObjectId("60c5ae3cd30c9239c6f2caa7"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "TEST",
+        "@CGISPLIT" : "TRAINING-SET",
+        "@OLDID" : "6361",
+        "@NEWID" : "18609",
+        "DATE" : "18-JUN-1987 08:52:57.94",
+        "TOPICS" : {
+                "D" : [
+                        "grain",
+                        "rice",
+                        "sugar"
+                ]
+        },
+        "PLACES" : {
+                "D" : "indonesia"
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;RM \n@0@22;@0@22;@0@1;f2902@0@31;reute\nu f BC-INDONESIA-REJECTS-WOR   06-18 0114",
+        "TEXT" : {
+                "TITLE" : "INDONESIA REJECTS WORLD BANK FARM REFORM PROPOSALS",
+                "DATELINE" : "JAKARTA, June 18 -",
+                "BODY" : "Indonesia rejected World Bank\nrecommendations for sweeping reforms to its farm economy, as\nthe country's foreign aid donors met to consider giving it 2.5\nbillion dlrs in grants and soft loans.\n    Agriculture Minister Achmad Affandi, in written remarks\ndistributed today as Indonesia's 14 foreign donor nations met\nat The Hague, said, \"The general argument presented by the Bank\nfor this free trade, open economy view is weak.\"\n    The Bank called for overhauls in how Indonesia manages the\nlargest farm area in South-east Asia, and said agricultural\ngrowth was stagnating under subsisides for rice farming.\n    The Bank report said Indonesia's rice production had peaked\nand the subsidies are a waste of money.\n    Affandi replied that rice is the main staple and provides\nan income for 17 pct of the workforce. The subsidies were\nneeded to support the fertilizer industry, including importers,\nexporters, producers and distributors, he said, as well as\nassisting in small part the majority of Indonesian farmers.\n    Affandi agreed with a bank recommendation that farmers\nshould be free to choose their own crops, but he said the\ngovernment would continue to maintain production targets for\n\"strategic commodities\" such as rice and sugar.\n    The Bank report was especially critical of Indonesia's\ndrive to plant sugar, saying domestic sugar prices are double\nthe world average because of inefficiencies, and the country\nwould save money by importing the commodity.\n    However, Affandi said volatile world sugar prices, the need\nto save foreign exchange and an already up-and-running sugar\nindustry were good arguments for continuing the sugar drive.\n    He also said import barriers and trade monopolies in the\nagricultural sector were needed to help domestic industry\ndevelop and because of \"over-production and price intervention\nin the developed nations.\"\n REUTER\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}
+{
+        "_id" : ObjectId("60c5ae3cd30c9239c6f2cac8"),
+        "@TOPICS" : "YES",
+        "@LEWISSPLIT" : "TEST",
+        "@CGISPLIT" : "TRAINING-SET",
+        "@OLDID" : "6394",
+        "@NEWID" : "18642",
+        "DATE" : "18-JUN-1987 09:33:16.05",
+        "TOPICS" : {
+                "D" : [
+                        "grain",
+                        "rice",
+                        "sugar"
+                ]
+        },
+        "PLACES" : {
+                "D" : "indonesia"
+        },
+        "PEOPLE" : null,
+        "ORGS" : null,
+        "EXCHANGES" : null,
+        "COMPANIES" : null,
+        "UNKNOWN" : "@0@5;@0@5;@0@5;T G \n@0@22;@0@22;@0@1;f3029@0@31;reute\nr f BC-INDONESIA-REJECTS-WOR   06-18 0112",
+        "TEXT" : {
+                "TITLE" : "INDONESIA REJECTS WORLD BANK FARM REFORM IDEAS",
+                "DATELINE" : "JAKARTA, June 18 -",
+                "BODY" : "Indonesia rejected World Bank\nrecommendations for sweeping reforms to its farm economy, as\nthe country's foreign aid donors met to consider giving it 2.5\nbillion dlrs in grants and soft loans.\n    Agriculture Minister Achmad Affandi, in written remarks\ndistributed today as Indonesia's 14 foreign donor nations met\nat The Hague, said, \"The general argument presented by the Bank\nfor this free trade, open economy view is weak.\"\n    The Bank called for overhauls in how Indonesia manages the\nlargest farm area in South-east Asia, and said agricultural\ngrowth was stagnating under subsidies for rice farming.\n    The Bank report said Indonesia's rice production had peaked\nand the subsidies are a waste of money.\n    Affandi replied that rice is the main staple and provides\nan income for 17 pct of the workforce. The subsidies were\nneeded to support the fertilizer industry, including importers,\nexporters, producers and distributors, he said, as well as\nassisting in small part the majority of Indonesian farmers.\n    Affandi agreed with a bank recommendation that farmers\nshould be free to choose their own crops, but he said the\ngovernment would continue to maintain production targets for\n\"strategic commodities\" such as rice and sugar.\n    The Bank report was especially critical of Indonesia's\ndrive to plant sugar, saying domestic sugar prices are double\nthe world average because of inefficiencies, and the country\nwould save money by importing the commodity.\n    However, Affandi said volatile world sugar prices, the need\nto save foreign exchange and an already up-and-running sugar\nindustry were good arguments for continuing the sugar drive.\n    He also said import barriers and trade monopolies in the\nagricultural sector were needed to help domestic industry\ndevelop and because of \"over-production and price intervention\nin the developed nations.\"\n Reuter\n@0@3;",
+                "#text" : "@0@2;"
+        }
+}

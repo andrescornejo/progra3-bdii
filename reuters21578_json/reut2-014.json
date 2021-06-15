@@ -1,6 +1,4 @@
-{
-    "COLLECTION": {
-        "REUTERS": [
+[
             {
                 "@TOPICS": "BYPASS",
                 "@LEWISSPLIT": "TRAIN",
@@ -22277,6 +22275,4 @@
                     "#text": "@0@2;"
                 }
             }
-        ]
-    }
-}
+]

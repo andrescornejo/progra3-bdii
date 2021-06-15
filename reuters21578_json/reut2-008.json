@@ -1,6 +1,4 @@
-{
-    "COLLECTION": {
-        "REUTERS": [
+[
             {
                 "@TOPICS": "YES",
                 "@LEWISSPLIT": "TRAIN",
@@ -25106,6 +25104,4 @@
                     "#text": "@0@2;"
                 }
             }
-        ]
-    }
-}
+]
